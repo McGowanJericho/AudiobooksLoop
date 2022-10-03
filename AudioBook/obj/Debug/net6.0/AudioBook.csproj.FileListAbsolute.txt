@@ -1,0 +1,15 @@
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\bin\Debug\net6.0\AudioBook.exe
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\bin\Debug\net6.0\AudioBook.deps.json
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\bin\Debug\net6.0\AudioBook.runtimeconfig.json
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\bin\Debug\net6.0\AudioBook.dll
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\bin\Debug\net6.0\AudioBook.pdb
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\AudioBook.csproj.AssemblyReference.cache
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\AudioBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\AudioBook.AssemblyInfoInputs.cache
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\AudioBook.AssemblyInfo.cs
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\AudioBook.csproj.CoreCompileInputs.cache
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\AudioBook.dll
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\refint\AudioBook.dll
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\AudioBook.pdb
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\AudioBook.genruntimeconfig.cache
+C:\Users\Jericho McGowan\source\repos\AllLabs\AudioBook\obj\Debug\net6.0\ref\AudioBook.dll
